@@ -3,11 +3,11 @@
 A Minesweeper clone coded on Pythonista with Python.
 It has sound, haptic feedback, saving option and 3 themes:
 
-[Default Theme](pictures/light.PNG)
+[Default Theme](Pictures/light.PNG)
 Default theme
 
-[Dark Theme](pictures/dark.PNG)
+[Dark Theme](Pictures/dark.PNG)
 Dark theme
 
-[Marine Theme](pictures/marine.PNG)
+[Marine Theme](Pictures/marine.PNG)
 Marine Theme
